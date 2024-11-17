@@ -1,4 +1,4 @@
-network
+networkx
 matloplib
 pandas
 biopython
