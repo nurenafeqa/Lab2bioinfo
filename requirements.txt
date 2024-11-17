@@ -3,3 +3,4 @@ requests
 matloplib
 pandas
 biopython
+pip install
